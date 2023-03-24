@@ -1,0 +1,11 @@
+shiboken_library_soversion = str(6.4)
+
+version = "6.4.3"
+version_info = (6, 4, 3, "", "")
+
+__build_date__ = '2023-03-20T21:17:07+00:00'
+
+
+
+
+__setup_py_package_version__ = '6.4.3'
